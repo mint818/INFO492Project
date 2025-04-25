@@ -1,6 +1,7 @@
 # INFO492 Group 2 Project
 
 Team: Brooke Dietmeier, Minnah Tanzeen, Sonoma Miller
+Website: https://bdietm.wixstudio.com/manosphere
 
 The manosphere - defined as “a collection of websites, blogs and online forums characterized by their virulent misogyny and users’ belief that modern-day society victimizes men” (Southern Poverty Law Center, 2022) - comprises four main domains: incels, pickup artists (PUA), MGTOW (men going their own way), and the men’s rights movement. Within these spaces, users often externalize blame - particularly toward women - framing personal dissatisfaction through narratives that normalize misogyny and, in many cases, promote violence. These ideologies are sustained and amplified through feedback mechanisms such as upvotes, engagement metrics, and algorithmic recommendations.
 
