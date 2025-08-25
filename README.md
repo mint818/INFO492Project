@@ -21,3 +21,5 @@ Through this inquiry, we aim to:
 
 
 By examining how generative AI systems respond to personas modeled on real online communities, our research seeks to illuminate the risks, challenges, and potential safeguards necessary for responsible AI deployment in vulnerable and ideologically extreme digital environments.
+
+The files in this repo have been deleted due to ethical conflicts of interest and the fact that the repo setting was not changed to private.
